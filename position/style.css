@@ -136,3 +136,50 @@
     top: 41%;
     background-color: #00ff9b;
 }
+
+.block4{
+    display: flex;
+    height: 500px;
+    margin: 20%;
+    background-color: white;
+    border: dotted;
+    border-color: gray;
+}
+
+.box{
+    display: flex;
+    position: relative;
+    width: 90%;
+    height: 90%;
+    border: solid;
+    border-color: #00ff9b;
+    background-color: #00ff9b;
+    left: 5%;
+    top: 5%;
+
+}
+
+._1st-box{
+    display: flex;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border: solid;
+    border-color: white;
+    background-color: white;
+    left: 5%;
+    top: 5%;
+}
+
+._2nd-box{
+    display: flex;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border: solid;
+    border-color: white;
+    background-color: white;
+    left: 70%;
+    top: 70%;
+}
+
