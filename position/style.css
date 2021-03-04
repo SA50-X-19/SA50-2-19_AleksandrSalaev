@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.block1{
+    display: flex;
+    height: 400px;
+    margin: 10%;
+    background-color: white;
+    border: dotted;
+    border-color: gray;
+}
+
+._1st-block{
+    display: block;
+    position: relative;
+    height: 60px;
+    width: 60px;
+    border: solid;
+    border-color: #ff7a83;
+    left: 8%;
+    top: 10%;
+}
+
+._2nd-block{
+    display: flex;
+    position: relative;
+    height: 60px;
+    width: 60px;
+    border: solid;
+    border-color: #906aec;
+    left: 13%;
+    top: 30%;
+}
+
+._3rd-block{
+    display: flex;
+    position: relative;
+    height: 60px;
+    width: 60px;
+    border: solid;
+    border-color: #00ff9b;
+    left: 18%;
+    top: 50%;
+}
