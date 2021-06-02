@@ -10,6 +10,7 @@
 body{
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
     margin: 8px;
     background: url(./assets/Rectangle.svg);
     font-family: sans-serif;
@@ -22,7 +23,7 @@ header{
     width: 100%;
     max-width: 95%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .nav_list{
@@ -152,6 +153,7 @@ h1{
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
+    max-width: 300px;
 }
 
 .donate{
