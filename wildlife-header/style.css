@@ -341,3 +341,30 @@ h1{
     color: #F7F7F7;
     text-decoration: none;
 }
+
+.arrows:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+
+.deer:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+
+.squirrel:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+
+.bird:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+
+.sendbutton:hover{
+    background: white;
+    color: #CD6326;
+    transition: 0.2s;
+    transition-duration: 0.5s;
+}
